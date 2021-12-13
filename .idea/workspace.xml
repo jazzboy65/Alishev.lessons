@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="" />
+    <list default="true" id="b7ffc674-996a-4a27-9556-cabe1d534c35" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="22EnUFzVTTHtRS8DlXff8ptdegR" />
+  <component name="ProjectId" id="21usxpXU583Ng4MdrGEM4Wi3G8Z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,27 +25,99 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/Alishev.lessons/Lessons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons" />
+      <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lesson11">
+    <configuration name="Lesson10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson10" />
+      <module name="Lessons.Alishev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson11" />
+      <module name="Lessons.Alishev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson7" />
+      <module name="Lessons.Alishev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson8" />
+      <module name="Lessons.Alishev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson9" />
+      <module name="Lessons.Alishev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lesson11" />
+        <item itemvalue="Application.Lesson10" />
+        <item itemvalue="Application.Lesson9" />
+        <item itemvalue="Application.Lesson8" />
+        <item itemvalue="Application.Lesson7" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="" />
-      <created>1639411627324</created>
+      <changelist id="b7ffc674-996a-4a27-9556-cabe1d534c35" name="Changes" comment="" />
+      <created>1638802555437</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1639411627324</updated>
+      <updated>1638802555437</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
