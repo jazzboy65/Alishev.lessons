@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
     <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lessons/Lesson12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lessons/Lesson12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson12.java" afterDir="false" />
     </list>
-=======
-    <list default="true" id="b7ffc674-996a-4a27-9556-cabe1d534c35" name="Changes" comment="" />
->>>>>>> 3872c621a2f5018cd96175f3d325c05fac76e7f7
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +21,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="21usxpXU583Ng4MdrGEM4Wi3G8Z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,10 +31,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-=======
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/Alishev.lessons/Lessons" />
+    =======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lessons" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -43,7 +41,7 @@
       <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lesson11">
+  <component name="RunManager" selected="Application.Lesson13">
     <configuration name="Lesson10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lessons.Lesson10" />
       <module name="Lessons.Alishev" />
@@ -70,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson7" />
+    <configuration name="Lesson12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson12" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson8" />
+    <configuration name="Lesson13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson13" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -111,14 +109,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson13" />
+        <item itemvalue="Application.Lesson12" />
         <item itemvalue="Application.Lesson11" />
         <item itemvalue="Application.Lesson10" />
         <item itemvalue="Application.Lesson9" />
-        <item itemvalue="Application.Lesson8" />
-        <item itemvalue="Application.Lesson7" />
       </list>
     </recent_temporary>
->>>>>>> 3872c621a2f5018cd96175f3d325c05fac76e7f7
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -130,5 +127,16 @@
       <updated>1638802555437</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
