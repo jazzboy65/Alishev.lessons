@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,7 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lessons" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -42,9 +50,9 @@
       <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lesson15">
-    <configuration name="ClassesAndObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.ClassesAndObjects" />
+  <component name="RunManager" selected="Application.Lesson11">
+    <configuration name="Lesson11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson11" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson13" />
+    <configuration name="Lesson12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson12" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson14" />
+    <configuration name="Lesson19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson19" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson15" />
+    <configuration name="Lesson20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson20" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson15And16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson15And16" />
+    <configuration name="Lesson21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson21" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson15" />
-        <item itemvalue="Application.ClassesAndObjects" />
-        <item itemvalue="Application.Lesson15And16" />
-        <item itemvalue="Application.Lesson14" />
-        <item itemvalue="Application.Lesson13" />
+        <item itemvalue="Application.Lesson11" />
+        <item itemvalue="Application.Lesson21" />
+        <item itemvalue="Application.Lesson20" />
+        <item itemvalue="Application.Lesson19" />
+        <item itemvalue="Application.Lesson12" />
       </list>
     </recent_temporary>
   </component>

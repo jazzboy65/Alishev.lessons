@@ -14,8 +14,8 @@ public class Lesson12 {
         }
         System.out.println();
 
-        for(String string: strings) {
-            System.out.println(string);
+        for(String x: strings) { //Тип данных - название переменной - массив через который мы будем проходить
+            System.out.println(x);
         }
         int[] numbers1 = {1,2,3};
         int sum = 0;
