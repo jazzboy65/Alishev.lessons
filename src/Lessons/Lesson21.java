@@ -17,8 +17,8 @@ public class Lesson21 {
         //h1.getAllFields();
         //h2.getAllFields();
         //Human2.description = "Bad"; //Статическая переменная изменяется через класс, не через объект
-        //h1.getAllFields();
-        //h2.getAllFields();
+        h1.getAllFields();
+        h2.getAllFields();
         //System.out.println(Math.pow(2,4)); //Возведение в степень
         //System.out.println(Math.PI);
         h1.printNumberOfPeople();
