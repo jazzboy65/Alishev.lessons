@@ -9,6 +9,5 @@ public class Lesson3 {
         System.out.println(str + space + name); //конкатенация
         System.out.println("Hello" + " " + "John");
         System.out.println("My number is "+ x );
-
     }
 }
