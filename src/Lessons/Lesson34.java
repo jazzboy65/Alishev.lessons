@@ -9,9 +9,9 @@ public class Lesson34 {
         listOfHeroes.add(new Hero(1));
         listOfHeroes.add(new Hero(2));
 
-        List<Warior> listOfWarrior = new ArrayList<>();
-        listOfWarrior.add(new Warior());
-        listOfWarrior.add(new Warior());
+        List<Warrior> listOfWarrior = new ArrayList<>();
+        listOfWarrior.add(new Warrior());
+        listOfWarrior.add(new Warrior());
 
         test(listOfHeroes);
         test(listOfWarrior);
