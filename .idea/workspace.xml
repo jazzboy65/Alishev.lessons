@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ Advanced lesson 1-2">
+    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ Lessons 36,37">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Exceptions1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/Exceptions1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exceptions1">
+  <component name="RunManager" selected="Application.Exceptions3">
     <configuration name="ArrayListBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvancedJava.ArrayListBegin" />
       <module name="Lessons.Alishev" />
@@ -65,11 +66,11 @@
       </method>
     </configuration>
     <configuration name="Exceptions1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Exceptions1" />
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions1" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson11" />
+    <configuration name="Exceptions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions2" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson23" />
+    <configuration name="Exceptions3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions3" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,7 +109,7 @@
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exceptions3" />
+        <item itemvalue="Application.Exceptions2" />
         <item itemvalue="Application.Exceptions1" />
         <item itemvalue="Application.ReadingFromFile" />
         <item itemvalue="Application.ArrayListBegin" />
-        <item itemvalue="Application.Lesson23" />
-        <item itemvalue="Application.Lesson11" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642276187098</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="+ Lessons 36,37">
+      <created>1642534496109</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642534496109</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +166,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+ Advanced lesson 1-2" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Advanced lesson 1-2" />
+    <MESSAGE value="+ Lessons 36,37" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ Lessons 36,37" />
   </component>
 </project>
