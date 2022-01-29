@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ Lessons 38,39 Add">
+    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ Lessons 40">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,20 +50,7 @@
       <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exceptions3">
-    <configuration name="ArrayListBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.ArrayListBegin" />
-      <module name="Lessons.Alishev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AdvancedJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WriteToFile">
     <configuration name="Exceptions1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions1" />
       <module name="Lessons.Alishev" />
@@ -103,12 +90,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadingFromFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.ReadingFromFile" />
+    <configuration name="Lesson42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson42" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.WriteToFile" />
+      <module name="Lessons.Alishev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WriteToFile" />
+        <item itemvalue="Application.Lesson42" />
         <item itemvalue="Application.Exceptions3" />
         <item itemvalue="Application.Exceptions2" />
         <item itemvalue="Application.Exceptions1" />
-        <item itemvalue="Application.ReadingFromFile" />
-        <item itemvalue="Application.ArrayListBegin" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642871722305</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+ Lessons 40">
+      <created>1643124853917</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643124853917</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +189,7 @@
     <MESSAGE value="+ Lessons 36,37" />
     <MESSAGE value="+ Lessons 38,39" />
     <MESSAGE value="+ Lessons 38,39 Add" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Lessons 38,39 Add" />
+    <MESSAGE value="+ Lessons 40" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ Lessons 40" />
   </component>
 </project>
