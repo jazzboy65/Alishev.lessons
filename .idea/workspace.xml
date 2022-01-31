@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ Lessons 40">
+    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="Lesson28 - 35">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Lesson14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Lesson14.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,8 +43,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Marathon2022" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -50,13 +55,13 @@
       <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WriteToFile">
-    <configuration name="Exceptions1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions1" />
+  <component name="RunManager" selected="Application.ReadObject3">
+    <configuration name="ReadObject1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Serialization.ReadObject1" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="Serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exceptions2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions2" />
+    <configuration name="ReadObject2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Serialization.ReadObject2" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="Serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exceptions3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions3" />
+    <configuration name="ReadObject3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Serialization.ReadObject3" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="Serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson42" />
+    <configuration name="WriteObject2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Serialization.WriteObject2" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.*" />
+          <option name="PATTERN" value="Serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.WriteToFile" />
+    <configuration name="WriteObject3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Serialization.WriteObject3" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.*" />
+          <option name="PATTERN" value="Serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WriteToFile" />
-        <item itemvalue="Application.Lesson42" />
-        <item itemvalue="Application.Exceptions3" />
-        <item itemvalue="Application.Exceptions2" />
-        <item itemvalue="Application.Exceptions1" />
+        <item itemvalue="Application.ReadObject3" />
+        <item itemvalue="Application.WriteObject3" />
+        <item itemvalue="Application.ReadObject2" />
+        <item itemvalue="Application.WriteObject2" />
+        <item itemvalue="Application.ReadObject1" />
       </list>
     </recent_temporary>
   </component>
@@ -135,42 +140,14 @@
       <option name="presentableId" value="Default" />
       <updated>1638802555437</updated>
     </task>
-    <task id="LOCAL-00001" summary="+ Advanced lesson 1-2">
-      <created>1642276187098</created>
+    <task id="LOCAL-00001" summary="Lesson24">
+      <created>1641145212476</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1642276187098</updated>
+      <updated>1641145212476</updated>
     </task>
-    <task id="LOCAL-00002" summary="+ Lessons 36,37">
-      <created>1642534496109</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1642534496109</updated>
-    </task>
-    <task id="LOCAL-00003" summary="+ Lessons 38,39">
-      <created>1642871636114</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1642871636114</updated>
-    </task>
-    <task id="LOCAL-00004" summary="+ Lessons 38,39 Add">
-      <created>1642871722305</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1642871722305</updated>
-    </task>
-    <task id="LOCAL-00005" summary="+ Lessons 40">
-      <created>1643124853917</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1643124853917</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,11 +162,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="+ Advanced lesson 1-2" />
-    <MESSAGE value="+ Lessons 36,37" />
-    <MESSAGE value="+ Lessons 38,39" />
-    <MESSAGE value="+ Lessons 38,39 Add" />
-    <MESSAGE value="+ Lessons 40" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Lessons 40" />
+    <MESSAGE value="Lesson24" />
+    <MESSAGE value="Lesson28 - 35" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson28 - 35" />
   </component>
 </project>
