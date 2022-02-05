@@ -1,4 +1,4 @@
-package AdvancedJava; //ArrayList введение
+package AdvancedJava; //Урок 2,3 - ArrayList введение
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -25,15 +25,7 @@ import java.util.List;
  * Пример:
  * List<String> list = new ArrayList<>(Arrays.asList("Audi", "BMW", "Lada", "Tesla"));
  * list.add("Mercedes");
- *
- *
- *
- *
- *
  * new ArrayList<>() - () - указываем размер внутреннего массива
- *
- *
- *
  */
 
 public class ArrayListBegin {
