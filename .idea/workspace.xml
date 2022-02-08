@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ Lessons 43 - 45">
+    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ AJ 4,5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/LinkedListBegin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/LinkedListBegin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/HashMapBegin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/HashMapBegin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +51,13 @@
       <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashMapBegin">
-    <configuration name="Exceptions3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions3" />
+  <component name="RunManager" selected="Application.HashCodeEquals">
+    <configuration name="HashCodeEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.HashCodeEquals" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="AdvancedJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Lesson42" />
+    <configuration name="LinkedHashMapAndTreeMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.LinkedHashMapAndTreeMap" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.*" />
+          <option name="PATTERN" value="AdvancedJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.WriteToFile" />
+    <configuration name="SetBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.SetBegin" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.*" />
+          <option name="PATTERN" value="AdvancedJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashCodeEquals" />
+        <item itemvalue="Application.SetBegin" />
+        <item itemvalue="Application.LinkedHashMapAndTreeMap" />
         <item itemvalue="Application.HashMapBegin" />
         <item itemvalue="Application.MyLinkedListTest" />
-        <item itemvalue="Application.WriteToFile" />
-        <item itemvalue="Application.Lesson42" />
-        <item itemvalue="Application.Exceptions3" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643473782860</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="+ AJ 4,5">
+      <created>1644093433874</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644093433874</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +206,7 @@
     <MESSAGE value="+ Lessons 38,39 Add" />
     <MESSAGE value="+ Lessons 40" />
     <MESSAGE value="+ Lessons 43 - 45" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ Lessons 43 - 45" />
+    <MESSAGE value="+ AJ 4,5" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ AJ 4,5" />
   </component>
 </project>
