@@ -1,4 +1,4 @@
-package AdvancedJava; //Урок 2,3 - ArrayList введение
+package AdvancedJava.collections; //Урок 2,3 - ArrayList введение
 
 import java.util.ArrayList;
 import java.util.LinkedList;

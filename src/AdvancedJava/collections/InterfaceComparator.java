@@ -1,4 +1,4 @@
-package AdvancedJava; //Урок 11. Интерфейс Comparator (Сортировка коллекций)
+package AdvancedJava.collections; //Урок 11. Интерфейс Comparator (Сортировка коллекций)
 
 /**
  * Для сортировки коллекций используется интерфейс Comparator (Тот, кто сравнивает).

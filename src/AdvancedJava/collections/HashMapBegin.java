@@ -1,4 +1,4 @@
-package AdvancedJava; //Урок 5. HashMap - введение
+package AdvancedJava.collections; //Урок 5. HashMap - введение
 
 import java.util.HashMap;
 import java.util.Map;

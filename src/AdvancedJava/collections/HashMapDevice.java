@@ -1,4 +1,4 @@
-package AdvancedJava; //Урок 9. Устройство HashMap
+package AdvancedJava.collections; //Урок 9. Устройство HashMap
 
 /**
  * HashSet в своей реализации использует HashMap.

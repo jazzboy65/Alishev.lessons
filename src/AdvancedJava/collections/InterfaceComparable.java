@@ -1,4 +1,4 @@
-package AdvancedJava; //Урок 12. Интерфейс Comparable
+package AdvancedJava.collections; //Урок 12. Интерфейс Comparable
 
 /**
  * Comparable (способный быть сравненным). Интерфейс используется для коллекций,

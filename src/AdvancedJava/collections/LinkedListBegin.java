@@ -1,4 +1,4 @@
-package AdvancedJava; //LinkedList(Связанный список) - урок 3
+package AdvancedJava.collections; //LinkedList(Связанный список) - урок 3
 
 /**
 Методы LinkedList и ArrayList одинаковы. Если нужно выполнять много вычислений

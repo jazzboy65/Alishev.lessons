@@ -1,4 +1,4 @@
-package AdvancedJava; //Урок 4. Устройство LinkedList
+package AdvancedJava.collections; //Урок 4. Устройство LinkedList
 
 import java.util.Arrays;
 

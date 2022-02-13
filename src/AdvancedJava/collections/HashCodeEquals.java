@@ -1,4 +1,4 @@
-package AdvancedJava;
+package AdvancedJava.collections;
 //Урок 8. hashcode() и equals()
 //Урок 9. Контракты hashcode() и equals()
 

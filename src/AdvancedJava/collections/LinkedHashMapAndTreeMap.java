@@ -1,4 +1,4 @@
-package AdvancedJava; //Урок 6. LinkedHashMapAndTreeMap
+package AdvancedJava.collections; //Урок 6. LinkedHashMapAndTreeMap
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

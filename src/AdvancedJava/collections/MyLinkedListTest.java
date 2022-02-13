@@ -1,4 +1,4 @@
-package AdvancedJava;
+package AdvancedJava.collections;
 
 public class MyLinkedListTest {
     public static void main(String[] args) {

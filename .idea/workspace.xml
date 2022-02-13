@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ AJ 10-12">
+    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ AJ 13-16">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/ArrayListBegin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/ArrayListBegin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/HashCodeEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/HashCodeEquals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/HashMapBegin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/HashMapBegin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/HashMapDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/HashMapDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/InterfaceComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/InterfaceComparable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/InterfaceComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/InterfaceComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/IterableInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/IterableInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/LinkedHashMapAndTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/LinkedHashMapAndTreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/LinkedListBegin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/LinkedListBegin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/MyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/MyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/MyLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/QueueBegin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/QueueBegin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/SetBegin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/SetBegin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/StackInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/StackInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,39 +69,13 @@
       <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IterableInfo">
-    <configuration name="InterfaceComparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.InterfaceComparable" />
-      <module name="Lessons.Alishev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AdvancedJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InterfaceComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.InterfaceComparator" />
-      <module name="Lessons.Alishev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AdvancedJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.KeywordVolatile">
     <configuration name="IterableInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.IterableInfo" />
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.collections.collections.IterableInfo" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvancedJava.*" />
+          <option name="PATTERN" value="AdvancedJava.collections.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +83,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.QueueBegin" />
+    <configuration name="KeywordVolatile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.KeywordVolatile" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvancedJava.*" />
+          <option name="PATTERN" value="AdvancedJava.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultithreadingBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.MultithreadingBegin" />
+      <module name="Lessons.Alishev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvancedJava.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackInfo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.collections.StackInfo" />
+      <module name="Lessons.Alishev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvancedJava.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +123,11 @@
       </method>
     </configuration>
     <configuration name="StackInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.StackInfo" />
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.collections.collections.StackInfo" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvancedJava.*" />
+          <option name="PATTERN" value="AdvancedJava.collections.collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KeywordVolatile" />
+        <item itemvalue="Application.MultithreadingBegin" />
+        <item itemvalue="Application.StackInfo (1)" />
         <item itemvalue="Application.IterableInfo" />
         <item itemvalue="Application.StackInfo" />
-        <item itemvalue="Application.QueueBegin" />
-        <item itemvalue="Application.InterfaceComparable" />
-        <item itemvalue="Application.InterfaceComparator" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644597301264</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="+ AJ 13-16">
+      <created>1644685310760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644685310760</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +209,7 @@
     <MESSAGE value="+ Lesson 46, 47" />
     <MESSAGE value="+ AJ 3,4" />
     <MESSAGE value="+ AJ 10-12" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ AJ 10-12" />
+    <MESSAGE value="+ AJ 13-16" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ AJ 13-16" />
   </component>
 </project>

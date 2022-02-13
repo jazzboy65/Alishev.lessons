@@ -1,4 +1,4 @@
-package AdvancedJava; //Урок 15. Интерфейс Iterable
+package AdvancedJava.collections; //Урок 15. Интерфейс Iterable
 
 /**
  * Iterable (то, по чему можно итерироваться(проходиться) - цикл For each):

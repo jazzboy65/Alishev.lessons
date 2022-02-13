@@ -1,4 +1,4 @@
-package AdvancedJava; //Урок 14. Stack
+package AdvancedJava.collections; //Урок 14. Stack
 
 import java.util.Stack;
 

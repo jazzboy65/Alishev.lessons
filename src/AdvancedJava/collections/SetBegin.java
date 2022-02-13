@@ -1,4 +1,4 @@
-package AdvancedJava; //Урок 7. Множества (Set)
+package AdvancedJava.collections; //Урок 7. Множества (Set)
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;
