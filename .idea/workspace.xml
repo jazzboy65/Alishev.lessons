@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ AJ 18,19">
+    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ AJ 20-22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/collections/QueueBegin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/collections/QueueBegin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/multithreading/ProducerConsumer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/multithreading/ProducerConsumer1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,20 @@
       <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodsWaitAndNotify">
+  <component name="RunManager" selected="Application.SemaphoreBegin">
+    <configuration name="CountDownLatchBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.CountDownLatchBegin" />
+      <module name="Lessons.Alishev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvancedJava.multithreading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MethodsWaitAndNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.MethodsWaitAndNotify" />
       <module name="Lessons.Alishev" />
@@ -83,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronisedPart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.SynchronisedPart1" />
+    <configuration name="ReentrantLockBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.ReentrantLockBegin" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -96,21 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronisedPart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.SynchronisedPart2" />
-      <module name="Lessons.Alishev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AdvancedJava.multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.ThreadPool" />
+    <configuration name="SemaphoreBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.SemaphoreBegin" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SemaphoreBegin" />
+        <item itemvalue="Application.ReentrantLockBegin" />
+        <item itemvalue="Application.CountDownLatchBegin" />
         <item itemvalue="Application.MethodsWaitAndNotify" />
         <item itemvalue="Application.ProducerConsumer1" />
-        <item itemvalue="Application.ThreadPool" />
-        <item itemvalue="Application.SynchronisedPart1" />
-        <item itemvalue="Application.SynchronisedPart2" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644952151573</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="+ AJ 20-22">
+      <created>1645112679589</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645112679589</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,6 +220,7 @@
     <MESSAGE value="+ AJ 13-16" />
     <MESSAGE value="+ AJ 16,17" />
     <MESSAGE value="+ AJ 18,19" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ AJ 18,19" />
+    <MESSAGE value="+ AJ 20-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ AJ 20-22" />
   </component>
 </project>

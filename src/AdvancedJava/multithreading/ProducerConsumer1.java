@@ -10,11 +10,13 @@ import java.util.concurrent.BlockingQueue;
  *
  * Пример из жизни: несколько пользователей обращаются к компьютеру с математическими задачами
  * (производитель) - компьютер решает задачи(потребитель)
+ *
+ * Методы put() и take() - являются потокобезопасными
  */
 
 public class ProducerConsumer1 {
     private static BlockingQueue<Integer> queue = new ArrayBlockingQueue<>(10);
-    //ArrayBlockingQueue<>(*) - потокобезопасная очередь(можно обращаться из нескольких потоков)
+    //ArrayBlockingQueue<>(*) - потокобезопасная очередь(можно обращаться из нескольких потоков без synchronised)
     //* - предельный размер, не может вырасти больше указанного числа
 
     public static void main(String[] args) throws InterruptedException {
