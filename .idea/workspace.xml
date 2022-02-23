@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ AJ 20-22">
+    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ AJ 23-26">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AdvancedJava/multithreading/ProducerConsumer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdvancedJava/multithreading/ProducerConsumer1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SemaphoreBegin">
+  <component name="RunManager" selected="Application.InterruptingThreads">
     <configuration name="CountDownLatchBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.CountDownLatchBegin" />
       <module name="Lessons.Alishev" />
@@ -70,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodsWaitAndNotify" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.MethodsWaitAndNotify" />
+    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.Deadlock" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProducerConsumer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.ProducerConsumer1" />
+    <configuration name="InterruptingThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.InterruptingThreads" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterruptingThreads" />
+        <item itemvalue="Application.Deadlock" />
         <item itemvalue="Application.SemaphoreBegin" />
         <item itemvalue="Application.ReentrantLockBegin" />
         <item itemvalue="Application.CountDownLatchBegin" />
-        <item itemvalue="Application.MethodsWaitAndNotify" />
-        <item itemvalue="Application.ProducerConsumer1" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645112679589</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="+ AJ 23-26">
+      <created>1645298488173</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645298488173</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -221,6 +227,7 @@
     <MESSAGE value="+ AJ 16,17" />
     <MESSAGE value="+ AJ 18,19" />
     <MESSAGE value="+ AJ 20-22" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ AJ 20-22" />
+    <MESSAGE value="+ AJ 23-26" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ AJ 23-26" />
   </component>
 </project>
