@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ AJ 27,28">
+    <list default="true" id="8e9e1372-92ea-4ca2-accd-b8726fc783c1" name="Changes" comment="+ AJ 29,30">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,22 +55,9 @@
       <recent name="C:\Users\Alef Computers\IdeaProjects\Lessons\.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Regexp1">
+  <component name="RunManager" selected="Application.PatternAndMatcher">
     <configuration name="CallableAndFuture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.CallableAndFuture" />
-      <module name="Lessons.Alishev" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AdvancedJava.multithreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.Deadlock" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
@@ -95,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PatternAndMatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.Regexp.PatternAndMatcher" />
+      <module name="Lessons.Alishev" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AdvancedJava.Regexp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Regexp1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvancedJava.Regexp.Regexp1" />
       <module name="Lessons.Alishev" />
@@ -108,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemaphoreBegin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvancedJava.multithreading.SemaphoreBegin" />
+    <configuration name="Regexp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedJava.Regexp.Regexp2" />
       <module name="Lessons.Alishev" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AdvancedJava.multithreading.*" />
+          <option name="PATTERN" value="AdvancedJava.Regexp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PatternAndMatcher" />
+        <item itemvalue="Application.Regexp2" />
         <item itemvalue="Application.Regexp1" />
         <item itemvalue="Application.CallableAndFuture" />
         <item itemvalue="Application.InterruptingThreads" />
-        <item itemvalue="Application.Deadlock" />
-        <item itemvalue="Application.SemaphoreBegin" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +210,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645635348430</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="+ AJ 29,30">
+      <created>1645725378976</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1645725378976</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +243,7 @@
     <MESSAGE value="+ AJ 20-22" />
     <MESSAGE value="+ AJ 23-26" />
     <MESSAGE value="+ AJ 27,28" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ AJ 27,28" />
+    <MESSAGE value="+ AJ 29,30" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ AJ 29,30" />
   </component>
 </project>
